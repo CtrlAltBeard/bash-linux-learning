@@ -35,13 +35,3 @@ This repository documents my progress learning **Bash scripting, Linux commands,
  | `/scripts`   | Bash scripts (e.g., file organizers, automation tools).                  |
  | `/projects`  | Larger projects (e.g., Bandit wargame, custom tools).          |
  | `/vm-setups` | Configurations and notes for my **Arch/Fedora/Ubuntu VMs**.               |
-
----
-## 💡 **Featured Scripts & Projects**
-### **1. File Organizer Script**
-- **File**: [`scripts/file_organizer.sh`](scripts/file_organizer.sh)
-- **Description**: Automatically sorts files (e.g., `.jpg`, `.png`) into folders by extension.
-- **Usage**:
-  ```bash
-  chmod +x file_organizer.sh
-  ./file_organizer.sh /path/to/directory
