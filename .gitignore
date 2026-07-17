@@ -5,3 +5,8 @@
 # Ignore VM disk images (they're huge!)
 *.vmdk
 *.qcow2
+
+# Ignore SSH keys and sensitive data
+*.key
+*.pem
+.env
