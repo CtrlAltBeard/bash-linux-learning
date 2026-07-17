@@ -15,7 +15,7 @@ This repository documents my progress learning **Bash scripting, Linux commands,
 ### ✅ **Completed**
    Resource               | Topic                          | Status          |
  |------------------------|--------------------------------|-----------------|
- | [LinuxBaseCamp](https://linuxbasecamp.com/tutorials) | Getting Started & Command Line | ✅ Completed    |
+ | [LinuxBaseCamp](https://linuxbasecamp.com/tutorials) | Getting Started, The Command Line, Text Fu | ✅ Completed    |
  | [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) | Levels 0-10              | ✅ Completed    |
 
 ### 🔄 **In Progress**
