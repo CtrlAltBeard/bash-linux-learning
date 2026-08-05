@@ -35,3 +35,5 @@ This repository documents my progress learning **Bash scripting, Linux commands,
  | `/scripts`   | Bash scripts (e.g., file organizers, automation tools).                  |
  | `/projects`  | Larger projects (e.g., Bandit wargame, custom tools).          |
  | `/resources` | Collection of online resources for selfstudy.               |
+
+## **Looking for [Python](https://github.com/CtrlAltBeard/python-learning) or [Cybersecurity](https://github.com/CtrlAltBeard/cybersecurity-learning) resources?
