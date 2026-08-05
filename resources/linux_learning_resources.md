@@ -224,7 +224,7 @@ Found a great resource? Want to add your own recommendations? Here’s how:
 ---
 
 *Last Updated: August 5, 2026*  
-*Maintained by: [ctrlAltBeard](https://github.com/ctrlAltBeard)*
+*Maintained by: [CtrlAltBeard](https://github.com/CtrlAltBeard)*
 
 ---
 
