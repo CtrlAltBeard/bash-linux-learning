@@ -8,7 +8,7 @@ This repository documents my progress learning **Bash scripting, Linux commands,
 - **Notes** from tutorials and wargames.
 - **Scripts** I’ve written (e.g., file organizers, automation tools).
 - **Projects** from platforms like [LinuxBaseCamp](https://linuxbasecamp.com/tutorials) and [OverTheWire Bandit](https://overthewire.org/wargames/bandit/).
-
+- **Resources** Online resources for selfstudy.
 ---
 
 ## 📌 **My Progress**
@@ -34,4 +34,4 @@ This repository documents my progress learning **Bash scripting, Linux commands,
  | `/notes`     | Study notes (Markdown files) from tutorials and wargames.                |
  | `/scripts`   | Bash scripts (e.g., file organizers, automation tools).                  |
  | `/projects`  | Larger projects (e.g., Bandit wargame, custom tools).          |
- | `/vm-setups` | Configurations and notes for my **Arch/Fedora/Ubuntu VMs**.               |
+ | `/resources` | Collection of online resources for selfstudy.               |
