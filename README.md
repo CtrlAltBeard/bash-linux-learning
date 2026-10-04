@@ -21,6 +21,7 @@ This repository documents my progress learning **Bash scripting, Linux commands,
 ### 🔄 **In Progress**
 - Writing **custom Bash scripts** for file management.
 - Exploring **permissions (chmod, chown)** and **cron jobs**.
+- [Infosec Linux+ XK0-005] (https://www.coursera.org/learn/linux-xk0-005)
 
 ### 🚀 **Up Next**
 - **Awk/Sed** for text processing.
